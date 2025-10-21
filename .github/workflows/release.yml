@@ -106,6 +106,7 @@ jobs:
   docker:
     name: Build and Push Docker Image
     runs-on: ubuntu-latest
+    if: github.repository == 'felipemacedo1/cardgen-pro' && vars.DOCKER_ENABLED == 'true'
     
     steps:
     - name: Checkout code
