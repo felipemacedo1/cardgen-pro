@@ -368,6 +368,6 @@ The authors are not responsible for misuse of this tool.
 
 ---
 
-**Made with ❤️ by Payment Engineers for Payment Engineers**
+**Made with hate in ❤️ by Felipe Macedo & Copilot**
 
 For issues, questions, or contributions: [GitHub Issues](https://github.com/felipemacedo1/cardgen-pro/issues)
