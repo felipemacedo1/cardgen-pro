@@ -445,6 +445,6 @@ Generated data is synthetic and must NOT be used:
 
 ---
 
-**Made with ❤️ by Payment Engineers for Payment Engineers**
+**Feito com ódio no ❤️ por Felipe Macedo & Copilot**
 
 **cardgen-pro v1.0.0** - Happy Testing! 🎉
